@@ -1,37 +1,5 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=kaustubhduddala&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%280deg%2C+%23591DB4FF+72%25%2C+%23591DB4FF+58%25%29+%2C+url%28https%3A%2F%2Fi.postimg.cc%2FCKQt9nys%2FScreenshot-2025-01-23-at-1-55-39-PM.png%29&color=%23ffffffFF&hide=stars">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=kaustubhduddala&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%280deg%2C+%23591DB4FF+72%25%2C+%23591DB4FF+58%25%29+%2C+url%28https%3A%2F%2Fi.postimg.cc%2FCKQt9nys%2FScreenshot-2025-01-23-at-1-55-39-PM.png%29&color=%23ffffffFF&hide=stars">
+  <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=kaustubhduddala&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%280deg%2C+%23591DB4FF+72%25%2C+%23591DB4FF+58%25%29+%2C+url%28https%3A%2F%2Fi.postimg.cc%2FCKQt9nys%2FScreenshot-2025-01-23-at-1-55-39-PM.png%29&color=%23ffffffFF&hide=stars">
+</picture>
